@@ -1,0 +1,10 @@
+Feature,Purpose
+Storage_Phase,"Groups observations into early, middle, and late storage phases"
+Baseline_TPC_Log10,Records each replicate's initial TPC log value
+Baseline_pH,Records each replicate's initial pH
+Baseline_Moisture_Percent,Records each replicate's initial moisture percentage
+TPC_Log_Change,Measures change in TPC log count from baseline
+pH_Change_From_Baseline,Measures pH change from baseline
+Moisture_Change_From_Baseline,Measures moisture change from baseline
+Baseline_TPC_Count,Records each replicate's initial TPC count
+TPC_Growth_Ratio,Measures current TPC count relative to baseline
